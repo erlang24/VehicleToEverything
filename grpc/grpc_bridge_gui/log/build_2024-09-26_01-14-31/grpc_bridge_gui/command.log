@@ -1,0 +1,4 @@
+Invoking command in '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui -- -j20 -l20
+Invoked command in '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui -- -j20 -l20
+Invoking command in '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui
+Invoked command in '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui

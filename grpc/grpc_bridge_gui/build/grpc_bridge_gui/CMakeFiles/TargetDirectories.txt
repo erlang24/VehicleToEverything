@@ -1,0 +1,10 @@
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui/CMakeFiles/uninstall.dir
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui/CMakeFiles/grpc_bridge_gui_uninstall.dir
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui/CMakeFiles/grpc_bridge_gui.dir
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui/CMakeFiles/test.dir
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui/CMakeFiles/edit_cache.dir
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui/CMakeFiles/rebuild_cache.dir
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui/CMakeFiles/list_install_components.dir
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui/CMakeFiles/install.dir
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui/CMakeFiles/install/local.dir
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui/CMakeFiles/install/strip.dir

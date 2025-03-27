@@ -1,0 +1,16 @@
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/lib/grpc_bridge_gui/grpc_bridge_gui
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/package_run_dependencies/grpc_bridge_gui
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/parent_prefix_path/grpc_bridge_gui
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/ament_prefix_path.sh
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/ament_prefix_path.dsv
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/path.sh
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/path.dsv
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.bash
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.sh
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.zsh
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.dsv
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/package.dsv
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/packages/grpc_bridge_gui
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/cmake/grpc_bridge_guiConfig.cmake
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/cmake/grpc_bridge_guiConfig-version.cmake
+/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/package.xml

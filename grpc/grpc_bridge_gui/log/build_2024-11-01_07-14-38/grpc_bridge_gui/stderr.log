@@ -1,0 +1,11 @@
+[01m[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:[m[K In member function ‘[01m[Kvirtual grpc::Status ObuServiceImpl::answerMethod(grpc::ServerContext*, const grpc::obu::msg::ObuAnswerRequest*, grpc::obu::msg::ObuAnswerResponse*)[m[K’:
+[01m[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:67:46:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kcontext[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   67 |     Status answerMethod([01;35m[Kgrpc::ServerContext* context[m[K, const grpc::obu::msg::ObuAnswerRequest* request,
+      |                         [01;35m[K~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:210:14:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kargc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  210 | int main([01;35m[Kint argc[m[K, char* argv[])
+      |          [01;35m[K~~~~^~~~[m[K
+[01m[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:210:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kargv[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  210 | int main(int argc, [01;35m[Kchar* argv[][m[K)
+      |                    [01;35m[K~~~~~~^~~~~~[m[K

@@ -1,0 +1,259 @@
+[0.000000] (-) TimerEvent: {}
+[0.000248] (grpc_bridge_gui) JobQueued: {'identifier': 'grpc_bridge_gui', 'dependencies': OrderedDict()}
+[0.000295] (grpc_bridge_gui) JobStarted: {'identifier': 'grpc_bridge_gui'}
+[0.050715] (grpc_bridge_gui) JobProgress: {'identifier': 'grpc_bridge_gui', 'progress': 'cmake'}
+[0.051469] (grpc_bridge_gui) JobProgress: {'identifier': 'grpc_bridge_gui', 'progress': 'build'}
+[0.051517] (grpc_bridge_gui) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui', '--', '-j20', '-l20'], 'cwd': '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui', 'env': OrderedDict([('USER_ID', '1000'), ('HOSTNAME', 'pm'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/local/cuda/lib64:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/home/erlang/shared_dir/grpc'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('COLCON_PREFIX_PATH', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/install'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/usr/local/cuda/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/root/.local/bin'), ('DISPLAY', ':0'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('XAUTHORITY', '/home/erlang/.Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui:/opt/ros/humble'), ('PWD', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui:/opt/ros/humble')]), 'shell': False}
+[0.099464] (-) TimerEvent: {}
+[0.129504] (grpc_bridge_gui) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/grpc_bridge_gui.dir/src/grpc_bridge_gui.cpp.o\x1b[0m\n'}
+[0.199655] (-) TimerEvent: {}
+[0.300081] (-) TimerEvent: {}
+[0.400485] (-) TimerEvent: {}
+[0.501180] (-) TimerEvent: {}
+[0.601900] (-) TimerEvent: {}
+[0.702345] (-) TimerEvent: {}
+[0.802700] (-) TimerEvent: {}
+[0.903029] (-) TimerEvent: {}
+[1.003380] (-) TimerEvent: {}
+[1.103752] (-) TimerEvent: {}
+[1.204175] (-) TimerEvent: {}
+[1.304572] (-) TimerEvent: {}
+[1.404964] (-) TimerEvent: {}
+[1.505392] (-) TimerEvent: {}
+[1.605853] (-) TimerEvent: {}
+[1.706290] (-) TimerEvent: {}
+[1.806865] (-) TimerEvent: {}
+[1.907335] (-) TimerEvent: {}
+[2.007681] (-) TimerEvent: {}
+[2.108203] (-) TimerEvent: {}
+[2.208571] (-) TimerEvent: {}
+[2.308873] (-) TimerEvent: {}
+[2.409204] (-) TimerEvent: {}
+[2.509564] (-) TimerEvent: {}
+[2.609932] (-) TimerEvent: {}
+[2.710376] (-) TimerEvent: {}
+[2.810814] (-) TimerEvent: {}
+[2.911294] (-) TimerEvent: {}
+[3.011603] (-) TimerEvent: {}
+[3.111949] (-) TimerEvent: {}
+[3.212241] (-) TimerEvent: {}
+[3.312495] (-) TimerEvent: {}
+[3.412736] (-) TimerEvent: {}
+[3.513154] (-) TimerEvent: {}
+[3.613714] (-) TimerEvent: {}
+[3.714075] (-) TimerEvent: {}
+[3.728696] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[01m\x1b[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:\x1b[m\x1b[K In member function \xe2\x80\x98\x1b[01m\x1b[Kvirtual grpc::Status ObuServiceImpl::answerMethod(grpc::ServerContext*, const grpc::obu::msg::ObuAnswerRequest*, grpc::obu::msg::ObuAnswerResponse*)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.728880] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[01m\x1b[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:67:46:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kcontext\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[3.728932] (grpc_bridge_gui) StderrLine: {'line': b'   67 |     Status answerMethod(\x1b[01;35m\x1b[Kgrpc::ServerContext* context\x1b[m\x1b[K, const grpc::obu::msg::ObuAnswerRequest* request,\n'}
+[3.728976] (grpc_bridge_gui) StderrLine: {'line': b'      |                         \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~~~~~^~~~~~~\x1b[m\x1b[K\n'}
+[3.736376] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[01m\x1b[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kint main(int, char**)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[3.736721] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[01m\x1b[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:210:14:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kargc\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[3.736805] (grpc_bridge_gui) StderrLine: {'line': b'  210 | int main(\x1b[01;35m\x1b[Kint argc\x1b[m\x1b[K, char* argv[])\n'}
+[3.736854] (grpc_bridge_gui) StderrLine: {'line': b'      |          \x1b[01;35m\x1b[K~~~~^~~~\x1b[m\x1b[K\n'}
+[3.736897] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[01m\x1b[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:210:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kargv\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[3.736938] (grpc_bridge_gui) StderrLine: {'line': b'  210 | int main(int argc, \x1b[01;35m\x1b[Kchar* argv[]\x1b[m\x1b[K)\n'}
+[3.736975] (grpc_bridge_gui) StderrLine: {'line': b'      |                    \x1b[01;35m\x1b[K~~~~~~^~~~~~\x1b[m\x1b[K\n'}
+[3.814172] (-) TimerEvent: {}
+[3.914416] (-) TimerEvent: {}
+[4.014681] (-) TimerEvent: {}
+[4.114984] (-) TimerEvent: {}
+[4.215498] (-) TimerEvent: {}
+[4.316017] (-) TimerEvent: {}
+[4.416356] (-) TimerEvent: {}
+[4.516624] (-) TimerEvent: {}
+[4.616883] (-) TimerEvent: {}
+[4.717190] (-) TimerEvent: {}
+[4.817690] (-) TimerEvent: {}
+[4.918075] (-) TimerEvent: {}
+[5.018342] (-) TimerEvent: {}
+[5.118608] (-) TimerEvent: {}
+[5.218932] (-) TimerEvent: {}
+[5.319256] (-) TimerEvent: {}
+[5.419493] (-) TimerEvent: {}
+[5.519816] (-) TimerEvent: {}
+[5.620115] (-) TimerEvent: {}
+[5.720364] (-) TimerEvent: {}
+[5.820623] (-) TimerEvent: {}
+[5.920944] (-) TimerEvent: {}
+[6.021282] (-) TimerEvent: {}
+[6.121558] (-) TimerEvent: {}
+[6.221817] (-) TimerEvent: {}
+[6.322059] (-) TimerEvent: {}
+[6.422405] (-) TimerEvent: {}
+[6.522713] (-) TimerEvent: {}
+[6.622957] (-) TimerEvent: {}
+[6.723315] (-) TimerEvent: {}
+[6.823664] (-) TimerEvent: {}
+[6.924051] (-) TimerEvent: {}
+[7.024332] (-) TimerEvent: {}
+[7.124609] (-) TimerEvent: {}
+[7.224938] (-) TimerEvent: {}
+[7.325171] (-) TimerEvent: {}
+[7.425472] (-) TimerEvent: {}
+[7.525757] (-) TimerEvent: {}
+[7.626068] (-) TimerEvent: {}
+[7.726379] (-) TimerEvent: {}
+[7.826652] (-) TimerEvent: {}
+[7.926972] (-) TimerEvent: {}
+[8.027399] (-) TimerEvent: {}
+[8.127674] (-) TimerEvent: {}
+[8.227982] (-) TimerEvent: {}
+[8.328277] (-) TimerEvent: {}
+[8.428645] (-) TimerEvent: {}
+[8.529183] (-) TimerEvent: {}
+[8.629500] (-) TimerEvent: {}
+[8.729700] (-) TimerEvent: {}
+[8.829976] (-) TimerEvent: {}
+[8.930200] (-) TimerEvent: {}
+[9.030428] (-) TimerEvent: {}
+[9.130694] (-) TimerEvent: {}
+[9.230990] (-) TimerEvent: {}
+[9.331323] (-) TimerEvent: {}
+[9.431542] (-) TimerEvent: {}
+[9.531778] (-) TimerEvent: {}
+[9.632177] (-) TimerEvent: {}
+[9.732604] (-) TimerEvent: {}
+[9.832824] (-) TimerEvent: {}
+[9.933135] (-) TimerEvent: {}
+[10.033608] (-) TimerEvent: {}
+[10.133860] (-) TimerEvent: {}
+[10.234180] (-) TimerEvent: {}
+[10.334617] (-) TimerEvent: {}
+[10.434914] (-) TimerEvent: {}
+[10.535353] (-) TimerEvent: {}
+[10.635566] (-) TimerEvent: {}
+[10.735854] (-) TimerEvent: {}
+[10.836230] (-) TimerEvent: {}
+[10.937003] (-) TimerEvent: {}
+[11.037380] (-) TimerEvent: {}
+[11.137692] (-) TimerEvent: {}
+[11.237940] (-) TimerEvent: {}
+[11.338237] (-) TimerEvent: {}
+[11.438474] (-) TimerEvent: {}
+[11.538713] (-) TimerEvent: {}
+[11.638942] (-) TimerEvent: {}
+[11.739171] (-) TimerEvent: {}
+[11.839426] (-) TimerEvent: {}
+[11.939685] (-) TimerEvent: {}
+[12.040131] (-) TimerEvent: {}
+[12.140426] (-) TimerEvent: {}
+[12.240683] (-) TimerEvent: {}
+[12.340988] (-) TimerEvent: {}
+[12.441233] (-) TimerEvent: {}
+[12.541535] (-) TimerEvent: {}
+[12.641814] (-) TimerEvent: {}
+[12.742092] (-) TimerEvent: {}
+[12.842332] (-) TimerEvent: {}
+[12.922638] (grpc_bridge_gui) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable grpc_bridge_gui\x1b[0m\n'}
+[12.942424] (-) TimerEvent: {}
+[13.042676] (-) TimerEvent: {}
+[13.142910] (-) TimerEvent: {}
+[13.243146] (-) TimerEvent: {}
+[13.343411] (-) TimerEvent: {}
+[13.443910] (-) TimerEvent: {}
+[13.544541] (-) TimerEvent: {}
+[13.644819] (-) TimerEvent: {}
+[13.745113] (-) TimerEvent: {}
+[13.845537] (-) TimerEvent: {}
+[13.946184] (-) TimerEvent: {}
+[14.046635] (-) TimerEvent: {}
+[14.147024] (-) TimerEvent: {}
+[14.247391] (-) TimerEvent: {}
+[14.347686] (-) TimerEvent: {}
+[14.448176] (-) TimerEvent: {}
+[14.548575] (-) TimerEvent: {}
+[14.649112] (-) TimerEvent: {}
+[14.749434] (-) TimerEvent: {}
+[14.849690] (-) TimerEvent: {}
+[14.949930] (-) TimerEvent: {}
+[15.050190] (-) TimerEvent: {}
+[15.150433] (-) TimerEvent: {}
+[15.250678] (-) TimerEvent: {}
+[15.350943] (-) TimerEvent: {}
+[15.451200] (-) TimerEvent: {}
+[15.551477] (-) TimerEvent: {}
+[15.651728] (-) TimerEvent: {}
+[15.751955] (-) TimerEvent: {}
+[15.852274] (-) TimerEvent: {}
+[15.952587] (-) TimerEvent: {}
+[16.052855] (-) TimerEvent: {}
+[16.153161] (-) TimerEvent: {}
+[16.253442] (-) TimerEvent: {}
+[16.353699] (-) TimerEvent: {}
+[16.454178] (-) TimerEvent: {}
+[16.554435] (-) TimerEvent: {}
+[16.654783] (-) TimerEvent: {}
+[16.755087] (-) TimerEvent: {}
+[16.855366] (-) TimerEvent: {}
+[16.955674] (-) TimerEvent: {}
+[17.055975] (-) TimerEvent: {}
+[17.156402] (-) TimerEvent: {}
+[17.256729] (-) TimerEvent: {}
+[17.357138] (-) TimerEvent: {}
+[17.457468] (-) TimerEvent: {}
+[17.557749] (-) TimerEvent: {}
+[17.658156] (-) TimerEvent: {}
+[17.758447] (-) TimerEvent: {}
+[17.858783] (-) TimerEvent: {}
+[17.959125] (-) TimerEvent: {}
+[18.059428] (-) TimerEvent: {}
+[18.159817] (-) TimerEvent: {}
+[18.260162] (-) TimerEvent: {}
+[18.360494] (-) TimerEvent: {}
+[18.460817] (-) TimerEvent: {}
+[18.561158] (-) TimerEvent: {}
+[18.661533] (-) TimerEvent: {}
+[18.761869] (-) TimerEvent: {}
+[18.862212] (-) TimerEvent: {}
+[18.962576] (-) TimerEvent: {}
+[19.062923] (-) TimerEvent: {}
+[19.163270] (-) TimerEvent: {}
+[19.263630] (-) TimerEvent: {}
+[19.363988] (-) TimerEvent: {}
+[19.464333] (-) TimerEvent: {}
+[19.564674] (-) TimerEvent: {}
+[19.665033] (-) TimerEvent: {}
+[19.765380] (-) TimerEvent: {}
+[19.865717] (-) TimerEvent: {}
+[19.966095] (-) TimerEvent: {}
+[20.066448] (-) TimerEvent: {}
+[20.166789] (-) TimerEvent: {}
+[20.267120] (-) TimerEvent: {}
+[20.367467] (-) TimerEvent: {}
+[20.467793] (-) TimerEvent: {}
+[20.568140] (-) TimerEvent: {}
+[20.668408] (-) TimerEvent: {}
+[20.768689] (-) TimerEvent: {}
+[20.868940] (-) TimerEvent: {}
+[20.969279] (-) TimerEvent: {}
+[21.069605] (-) TimerEvent: {}
+[21.169928] (-) TimerEvent: {}
+[21.270210] (-) TimerEvent: {}
+[21.370530] (-) TimerEvent: {}
+[21.405862] (grpc_bridge_gui) StdoutLine: {'line': b'[100%] Built target grpc_bridge_gui\n'}
+[21.417009] (grpc_bridge_gui) CommandEnded: {'returncode': 0}
+[21.446066] (grpc_bridge_gui) JobProgress: {'identifier': 'grpc_bridge_gui', 'progress': 'install'}
+[21.452096] (grpc_bridge_gui) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui'], 'cwd': '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui', 'env': OrderedDict([('USER_ID', '1000'), ('HOSTNAME', 'pm'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/local/cuda/lib64:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/home/erlang/shared_dir/grpc'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('COLCON_PREFIX_PATH', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/install'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/usr/local/cuda/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/root/.local/bin'), ('DISPLAY', ':0'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('XAUTHORITY', '/home/erlang/.Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui:/opt/ros/humble'), ('PWD', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui:/opt/ros/humble')]), 'shell': False}
+[21.460363] (grpc_bridge_gui) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[21.460618] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/lib/grpc_bridge_gui/grpc_bridge_gui\n'}
+[21.470616] (-) TimerEvent: {}
+[21.508625] (grpc_bridge_gui) StdoutLine: {'line': b'-- Set runtime path of "/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/lib/grpc_bridge_gui/grpc_bridge_gui" to ""\n'}
+[21.508858] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/package_run_dependencies/grpc_bridge_gui\n'}
+[21.508926] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/parent_prefix_path/grpc_bridge_gui\n'}
+[21.508967] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/ament_prefix_path.sh\n'}
+[21.509038] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/ament_prefix_path.dsv\n'}
+[21.509070] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/path.sh\n'}
+[21.509107] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/path.dsv\n'}
+[21.509141] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.bash\n'}
+[21.509175] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.sh\n'}
+[21.509222] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.zsh\n'}
+[21.509263] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.dsv\n'}
+[21.509297] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/package.dsv\n'}
+[21.509329] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/packages/grpc_bridge_gui\n'}
+[21.509363] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/cmake/grpc_bridge_guiConfig.cmake\n'}
+[21.509394] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/cmake/grpc_bridge_guiConfig-version.cmake\n'}
+[21.509425] (grpc_bridge_gui) StdoutLine: {'line': b'-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/package.xml\n'}
+[21.510897] (grpc_bridge_gui) CommandEnded: {'returncode': 0}
+[21.570927] (-) TimerEvent: {}
+[21.612015] (grpc_bridge_gui) JobEnded: {'identifier': 'grpc_bridge_gui', 'rc': 0}
+[21.612569] (-) EventReactorShutdown: {}

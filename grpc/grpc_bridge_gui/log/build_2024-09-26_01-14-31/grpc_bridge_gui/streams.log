@@ -1,0 +1,23 @@
+[0.032s] Invoking command in '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui -- -j20 -l20
+[0.056s] [35m[1mConsolidate compiler generated dependencies of target grpc_bridge_gui[0m
+[0.075s] [100%] Built target grpc_bridge_gui
+[0.086s] Invoked command in '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui -- -j20 -l20
+[0.120s] Invoking command in '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui
+[0.127s] -- Install configuration: ""
+[0.127s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/lib/grpc_bridge_gui/grpc_bridge_gui
+[0.128s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/package_run_dependencies/grpc_bridge_gui
+[0.128s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/parent_prefix_path/grpc_bridge_gui
+[0.128s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/ament_prefix_path.sh
+[0.128s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/ament_prefix_path.dsv
+[0.128s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/path.sh
+[0.128s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/path.dsv
+[0.128s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.bash
+[0.128s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.sh
+[0.129s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.zsh
+[0.129s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.dsv
+[0.129s] -- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/package.dsv
+[0.129s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/packages/grpc_bridge_gui
+[0.129s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/cmake/grpc_bridge_guiConfig.cmake
+[0.129s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/cmake/grpc_bridge_guiConfig-version.cmake
+[0.129s] -- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/package.xml
+[0.131s] Invoked command in '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui

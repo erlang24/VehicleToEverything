@@ -1,0 +1,32 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/grpc_bridge_gui.dir/src/grpc_bridge_gui.cpp.o[0m
+[01m[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:[m[K In member function ‘[01m[Kvirtual grpc::Status ObuServiceImpl::answerMethod(grpc::ServerContext*, const grpc::obu::msg::ObuAnswerRequest*, grpc::obu::msg::ObuAnswerResponse*)[m[K’:
+[01m[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:67:46:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kcontext[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   67 |     Status answerMethod([01;35m[Kgrpc::ServerContext* context[m[K, const grpc::obu::msg::ObuAnswerRequest* request,
+      |                         [01;35m[K~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:210:14:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kargc[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  210 | int main([01;35m[Kint argc[m[K, char* argv[])
+      |          [01;35m[K~~~~^~~~[m[K
+[01m[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:210:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kargv[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+  210 | int main(int argc, [01;35m[Kchar* argv[][m[K)
+      |                    [01;35m[K~~~~~~^~~~~~[m[K
+[100%] [32m[1mLinking CXX executable grpc_bridge_gui[0m
+[100%] Built target grpc_bridge_gui
+-- Install configuration: ""
+-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/lib/grpc_bridge_gui/grpc_bridge_gui
+-- Set runtime path of "/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/lib/grpc_bridge_gui/grpc_bridge_gui" to ""
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/package_run_dependencies/grpc_bridge_gui
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/parent_prefix_path/grpc_bridge_gui
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/ament_prefix_path.sh
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/path.sh
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/path.dsv
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.bash
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.sh
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.zsh
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.dsv
+-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/package.dsv
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/packages/grpc_bridge_gui
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/cmake/grpc_bridge_guiConfig.cmake
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/cmake/grpc_bridge_guiConfig-version.cmake
+-- Up-to-date: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/package.xml

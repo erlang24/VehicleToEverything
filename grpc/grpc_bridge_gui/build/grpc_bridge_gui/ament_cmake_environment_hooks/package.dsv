@@ -1,0 +1,4 @@
+source;share/grpc_bridge_gui/local_setup.bash
+source;share/grpc_bridge_gui/local_setup.dsv
+source;share/grpc_bridge_gui/local_setup.sh
+source;share/grpc_bridge_gui/local_setup.zsh

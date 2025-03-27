@@ -1,0 +1,295 @@
+[0.000000] (-) TimerEvent: {}
+[0.000099] (grpc_bridge_gui) JobQueued: {'identifier': 'grpc_bridge_gui', 'dependencies': OrderedDict()}
+[0.000119] (grpc_bridge_gui) JobStarted: {'identifier': 'grpc_bridge_gui'}
+[0.029891] (grpc_bridge_gui) JobProgress: {'identifier': 'grpc_bridge_gui', 'progress': 'cmake'}
+[0.030129] (grpc_bridge_gui) Command: {'cmd': ['/usr/bin/cmake', '/home/erlang/shared_dir/grpc/grpc_bridge_gui', '-DCMAKE_INSTALL_PREFIX=/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui'], 'cwd': '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui', 'env': OrderedDict([('USER_ID', '1000'), ('HOSTNAME', 'pm'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/local/cuda/lib64:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/home/erlang/shared_dir/grpc'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/usr/local/cuda/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/root/.local/bin'), ('DISPLAY', ':0'), ('ROS_DOMAIN', '55'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('XAUTHORITY', '/home/erlang/.Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('PWD', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[0.099539] (-) TimerEvent: {}
+[0.129723] (grpc_bridge_gui) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[0.199701] (-) TimerEvent: {}
+[0.211472] (grpc_bridge_gui) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[0.217794] (grpc_bridge_gui) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.286319] (grpc_bridge_gui) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.292157] (grpc_bridge_gui) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.292367] (grpc_bridge_gui) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.292794] (grpc_bridge_gui) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.296696] (grpc_bridge_gui) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.299843] (-) TimerEvent: {}
+[0.370761] (grpc_bridge_gui) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.375615] (grpc_bridge_gui) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[0.375828] (grpc_bridge_gui) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.376028] (grpc_bridge_gui) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.377818] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[0.399997] (-) TimerEvent: {}
+[0.488816] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter \n'}
+[0.500149] (-) TimerEvent: {}
+[0.554685] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found rclcpp: 16.0.6 (/opt/ros/humble/share/rclcpp/cmake)\n'}
+[0.591256] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[0.595301] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[0.600295] (-) TimerEvent: {}
+[0.602716] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[0.614415] (grpc_bridge_gui) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.629863] (grpc_bridge_gui) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.684341] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)\n'}
+[0.686755] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)\n'}
+[0.700449] (-) TimerEvent: {}
+[0.713531] (grpc_bridge_gui) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_cyclonedds_cpp' as default\n"}
+[0.721998] (grpc_bridge_gui) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[0.770971] (grpc_bridge_gui) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[0.771095] (grpc_bridge_gui) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[0.800637] (-) TimerEvent: {}
+[0.829232] (grpc_bridge_gui) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success\n'}
+[0.829972] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[0.900822] (-) TimerEvent: {}
+[0.944218] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)\n'}
+[0.994192] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[33mCMake Warning at /usr/share/cmake-3.22/Modules/FindProtobuf.cmake:524 (message):\n'}
+[0.994283] (grpc_bridge_gui) StderrLine: {'line': b"  Protobuf compiler version 25.1 doesn't match library version 4.25.1\n"}
+[0.994320] (grpc_bridge_gui) StderrLine: {'line': b'Call Stack (most recent call first):\n'}
+[0.994351] (grpc_bridge_gui) StderrLine: {'line': b'  CMakeLists.txt:13 (find_package)\n'}
+[0.994379] (grpc_bridge_gui) StderrLine: {'line': b'\n'}
+[0.994407] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[0m\n'}
+[0.994971] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found Protobuf: /usr/lib/libprotobuf.a (found version "4.25.1") \n'}
+[1.000990] (-) TimerEvent: {}
+[1.010593] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") \n'}
+[1.012001] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)\n'}
+[1.072817] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found gps_msgs: 2.0.4 (/opt/ros/humble/share/gps_msgs/cmake)\n'}
+[1.101152] (-) TimerEvent: {}
+[1.104073] (grpc_bridge_gui) StdoutLine: {'line': b"-- Checking for module 'protobuf>=3.0'\n"}
+[1.138434] (grpc_bridge_gui) StdoutLine: {'line': b'--   Found protobuf, version 25.1.0\n'}
+[1.201323] (-) TimerEvent: {}
+[1.259458] (grpc_bridge_gui) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)\n'}
+[1.301537] (-) TimerEvent: {}
+[1.323762] (grpc_bridge_gui) StdoutLine: {'line': b"-- Added test 'cppcheck' to perform static code analysis on C / C++ code\n"}
+[1.324267] (grpc_bridge_gui) StdoutLine: {'line': b'-- Configured cppcheck include dirs: /home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui;$<BUILD_INTERFACE:/home/erlang/shared_dir/grpc/grpc_bridge_gui/include>\n'}
+[1.324344] (grpc_bridge_gui) StdoutLine: {'line': b'-- Configured cppcheck exclude dirs and/or files: \n'}
+[1.324994] (grpc_bridge_gui) StdoutLine: {'line': b"-- Added test 'flake8' to check Python code syntax and style conventions\n"}
+[1.325854] (grpc_bridge_gui) StdoutLine: {'line': b"-- Added test 'lint_cmake' to check CMake code style\n"}
+[1.326507] (grpc_bridge_gui) StdoutLine: {'line': b"-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257\n"}
+[1.329110] (grpc_bridge_gui) StdoutLine: {'line': b"-- Added test 'uncrustify' to check C / C++ code style\n"}
+[1.329185] (grpc_bridge_gui) StdoutLine: {'line': b'-- Configured uncrustify additional arguments: \n'}
+[1.329750] (grpc_bridge_gui) StdoutLine: {'line': b"-- Added test 'xmllint' to check XML markup files\n"}
+[1.330544] (grpc_bridge_gui) StdoutLine: {'line': b'-- Configuring done\n'}
+[1.340866] (grpc_bridge_gui) StdoutLine: {'line': b'-- Generating done\n'}
+[1.341940] (grpc_bridge_gui) StdoutLine: {'line': b'-- Build files have been written to: /home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui\n'}
+[1.347117] (grpc_bridge_gui) CommandEnded: {'returncode': 0}
+[1.347985] (grpc_bridge_gui) JobProgress: {'identifier': 'grpc_bridge_gui', 'progress': 'build'}
+[1.348018] (grpc_bridge_gui) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui', '--', '-j20', '-l20'], 'cwd': '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui', 'env': OrderedDict([('USER_ID', '1000'), ('HOSTNAME', 'pm'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/local/cuda/lib64:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/home/erlang/shared_dir/grpc'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/usr/local/cuda/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/root/.local/bin'), ('DISPLAY', ':0'), ('ROS_DOMAIN', '55'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('XAUTHORITY', '/home/erlang/.Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('PWD', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[1.374865] (grpc_bridge_gui) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/grpc_bridge_gui.dir/src/grpc_bridge_gui.cpp.o\x1b[0m\n'}
+[1.401639] (-) TimerEvent: {}
+[1.501899] (-) TimerEvent: {}
+[1.602183] (-) TimerEvent: {}
+[1.702496] (-) TimerEvent: {}
+[1.802806] (-) TimerEvent: {}
+[1.903122] (-) TimerEvent: {}
+[2.003447] (-) TimerEvent: {}
+[2.103687] (-) TimerEvent: {}
+[2.203991] (-) TimerEvent: {}
+[2.304302] (-) TimerEvent: {}
+[2.404618] (-) TimerEvent: {}
+[2.504968] (-) TimerEvent: {}
+[2.605283] (-) TimerEvent: {}
+[2.705597] (-) TimerEvent: {}
+[2.805901] (-) TimerEvent: {}
+[2.906212] (-) TimerEvent: {}
+[3.006444] (-) TimerEvent: {}
+[3.106752] (-) TimerEvent: {}
+[3.207057] (-) TimerEvent: {}
+[3.307431] (-) TimerEvent: {}
+[3.407752] (-) TimerEvent: {}
+[3.508033] (-) TimerEvent: {}
+[3.608333] (-) TimerEvent: {}
+[3.708646] (-) TimerEvent: {}
+[3.808964] (-) TimerEvent: {}
+[3.909272] (-) TimerEvent: {}
+[4.009577] (-) TimerEvent: {}
+[4.109907] (-) TimerEvent: {}
+[4.183361] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[01m\x1b[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:\x1b[m\x1b[K In member function \xe2\x80\x98\x1b[01m\x1b[Kvirtual grpc::Status ObuServiceImpl::answerMethod(grpc::ServerContext*, const grpc::obu::msg::ObuAnswerRequest*, grpc::obu::msg::ObuAnswerResponse*)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.183491] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[01m\x1b[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:67:46:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kcontext\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[4.183529] (grpc_bridge_gui) StderrLine: {'line': b'   67 |     Status answerMethod(\x1b[01;35m\x1b[Kgrpc::ServerContext* context\x1b[m\x1b[K, const grpc::obu::msg::ObuAnswerRequest* request,\n'}
+[4.183561] (grpc_bridge_gui) StderrLine: {'line': b'      |                         \x1b[01;35m\x1b[K~~~~~~~~~~~~~~~~~~~~~^~~~~~~\x1b[m\x1b[K\n'}
+[4.188190] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[01m\x1b[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kint main(int, char**)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[4.188267] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[01m\x1b[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:210:14:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kargc\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[4.188313] (grpc_bridge_gui) StderrLine: {'line': b'  210 | int main(\x1b[01;35m\x1b[Kint argc\x1b[m\x1b[K, char* argv[])\n'}
+[4.188343] (grpc_bridge_gui) StderrLine: {'line': b'      |          \x1b[01;35m\x1b[K~~~~^~~~\x1b[m\x1b[K\n'}
+[4.188371] (grpc_bridge_gui) StderrLine: {'line': b'\x1b[01m\x1b[K/home/erlang/shared_dir/grpc/grpc_bridge_gui/src/grpc_bridge_gui.cpp:210:26:\x1b[m\x1b[K \x1b[01;35m\x1b[Kwarning: \x1b[m\x1b[Kunused parameter \xe2\x80\x98\x1b[01m\x1b[Kargv\x1b[m\x1b[K\xe2\x80\x99 [\x1b[01;35m\x1b[K-Wunused-parameter\x1b[m\x1b[K]\n'}
+[4.188400] (grpc_bridge_gui) StderrLine: {'line': b'  210 | int main(int argc, \x1b[01;35m\x1b[Kchar* argv[]\x1b[m\x1b[K)\n'}
+[4.188427] (grpc_bridge_gui) StderrLine: {'line': b'      |                    \x1b[01;35m\x1b[K~~~~~~^~~~~~\x1b[m\x1b[K\n'}
+[4.210053] (-) TimerEvent: {}
+[4.310328] (-) TimerEvent: {}
+[4.410630] (-) TimerEvent: {}
+[4.510966] (-) TimerEvent: {}
+[4.611243] (-) TimerEvent: {}
+[4.711550] (-) TimerEvent: {}
+[4.811854] (-) TimerEvent: {}
+[4.912167] (-) TimerEvent: {}
+[5.012479] (-) TimerEvent: {}
+[5.112795] (-) TimerEvent: {}
+[5.213128] (-) TimerEvent: {}
+[5.313443] (-) TimerEvent: {}
+[5.413764] (-) TimerEvent: {}
+[5.514072] (-) TimerEvent: {}
+[5.614385] (-) TimerEvent: {}
+[5.714692] (-) TimerEvent: {}
+[5.815004] (-) TimerEvent: {}
+[5.915314] (-) TimerEvent: {}
+[6.015630] (-) TimerEvent: {}
+[6.115949] (-) TimerEvent: {}
+[6.216259] (-) TimerEvent: {}
+[6.316592] (-) TimerEvent: {}
+[6.416903] (-) TimerEvent: {}
+[6.517238] (-) TimerEvent: {}
+[6.617552] (-) TimerEvent: {}
+[6.717865] (-) TimerEvent: {}
+[6.818144] (-) TimerEvent: {}
+[6.918511] (-) TimerEvent: {}
+[7.018840] (-) TimerEvent: {}
+[7.119170] (-) TimerEvent: {}
+[7.219476] (-) TimerEvent: {}
+[7.319795] (-) TimerEvent: {}
+[7.420064] (-) TimerEvent: {}
+[7.520389] (-) TimerEvent: {}
+[7.620722] (-) TimerEvent: {}
+[7.721031] (-) TimerEvent: {}
+[7.821253] (-) TimerEvent: {}
+[7.921573] (-) TimerEvent: {}
+[8.021901] (-) TimerEvent: {}
+[8.122183] (-) TimerEvent: {}
+[8.222499] (-) TimerEvent: {}
+[8.322810] (-) TimerEvent: {}
+[8.423140] (-) TimerEvent: {}
+[8.523450] (-) TimerEvent: {}
+[8.623758] (-) TimerEvent: {}
+[8.724058] (-) TimerEvent: {}
+[8.824363] (-) TimerEvent: {}
+[8.924677] (-) TimerEvent: {}
+[9.024983] (-) TimerEvent: {}
+[9.125293] (-) TimerEvent: {}
+[9.225591] (-) TimerEvent: {}
+[9.325898] (-) TimerEvent: {}
+[9.426216] (-) TimerEvent: {}
+[9.526541] (-) TimerEvent: {}
+[9.626875] (-) TimerEvent: {}
+[9.727198] (-) TimerEvent: {}
+[9.827522] (-) TimerEvent: {}
+[9.927828] (-) TimerEvent: {}
+[10.028142] (-) TimerEvent: {}
+[10.128458] (-) TimerEvent: {}
+[10.228755] (-) TimerEvent: {}
+[10.329056] (-) TimerEvent: {}
+[10.429369] (-) TimerEvent: {}
+[10.529667] (-) TimerEvent: {}
+[10.629982] (-) TimerEvent: {}
+[10.730277] (-) TimerEvent: {}
+[10.830639] (-) TimerEvent: {}
+[10.930952] (-) TimerEvent: {}
+[11.031268] (-) TimerEvent: {}
+[11.131572] (-) TimerEvent: {}
+[11.231882] (-) TimerEvent: {}
+[11.332185] (-) TimerEvent: {}
+[11.432546] (-) TimerEvent: {}
+[11.532853] (-) TimerEvent: {}
+[11.633179] (-) TimerEvent: {}
+[11.733496] (-) TimerEvent: {}
+[11.833820] (-) TimerEvent: {}
+[11.934117] (-) TimerEvent: {}
+[12.034446] (-) TimerEvent: {}
+[12.076607] (grpc_bridge_gui) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable grpc_bridge_gui\x1b[0m\n'}
+[12.134661] (-) TimerEvent: {}
+[12.234976] (-) TimerEvent: {}
+[12.335301] (-) TimerEvent: {}
+[12.435618] (-) TimerEvent: {}
+[12.535967] (-) TimerEvent: {}
+[12.636287] (-) TimerEvent: {}
+[12.736602] (-) TimerEvent: {}
+[12.836920] (-) TimerEvent: {}
+[12.937233] (-) TimerEvent: {}
+[13.037544] (-) TimerEvent: {}
+[13.137869] (-) TimerEvent: {}
+[13.238192] (-) TimerEvent: {}
+[13.338504] (-) TimerEvent: {}
+[13.438818] (-) TimerEvent: {}
+[13.539149] (-) TimerEvent: {}
+[13.639466] (-) TimerEvent: {}
+[13.739783] (-) TimerEvent: {}
+[13.840091] (-) TimerEvent: {}
+[13.940405] (-) TimerEvent: {}
+[14.040737] (-) TimerEvent: {}
+[14.141055] (-) TimerEvent: {}
+[14.241384] (-) TimerEvent: {}
+[14.341617] (-) TimerEvent: {}
+[14.441829] (-) TimerEvent: {}
+[14.542103] (-) TimerEvent: {}
+[14.642354] (-) TimerEvent: {}
+[14.742612] (-) TimerEvent: {}
+[14.842914] (-) TimerEvent: {}
+[14.943231] (-) TimerEvent: {}
+[15.043549] (-) TimerEvent: {}
+[15.143895] (-) TimerEvent: {}
+[15.244194] (-) TimerEvent: {}
+[15.344483] (-) TimerEvent: {}
+[15.444801] (-) TimerEvent: {}
+[15.545075] (-) TimerEvent: {}
+[15.645278] (-) TimerEvent: {}
+[15.745558] (-) TimerEvent: {}
+[15.845840] (-) TimerEvent: {}
+[15.946095] (-) TimerEvent: {}
+[16.046397] (-) TimerEvent: {}
+[16.146702] (-) TimerEvent: {}
+[16.246995] (-) TimerEvent: {}
+[16.347304] (-) TimerEvent: {}
+[16.447615] (-) TimerEvent: {}
+[16.547919] (-) TimerEvent: {}
+[16.648220] (-) TimerEvent: {}
+[16.748488] (-) TimerEvent: {}
+[16.848742] (-) TimerEvent: {}
+[16.949019] (-) TimerEvent: {}
+[17.049338] (-) TimerEvent: {}
+[17.149652] (-) TimerEvent: {}
+[17.249893] (-) TimerEvent: {}
+[17.350193] (-) TimerEvent: {}
+[17.450508] (-) TimerEvent: {}
+[17.550779] (-) TimerEvent: {}
+[17.651059] (-) TimerEvent: {}
+[17.751346] (-) TimerEvent: {}
+[17.851612] (-) TimerEvent: {}
+[17.951897] (-) TimerEvent: {}
+[18.052193] (-) TimerEvent: {}
+[18.152480] (-) TimerEvent: {}
+[18.252753] (-) TimerEvent: {}
+[18.353079] (-) TimerEvent: {}
+[18.453392] (-) TimerEvent: {}
+[18.553699] (-) TimerEvent: {}
+[18.654008] (-) TimerEvent: {}
+[18.754323] (-) TimerEvent: {}
+[18.854647] (-) TimerEvent: {}
+[18.954969] (-) TimerEvent: {}
+[19.055281] (-) TimerEvent: {}
+[19.155587] (-) TimerEvent: {}
+[19.255906] (-) TimerEvent: {}
+[19.356221] (-) TimerEvent: {}
+[19.453557] (grpc_bridge_gui) StdoutLine: {'line': b'[100%] Built target grpc_bridge_gui\n'}
+[19.456369] (-) TimerEvent: {}
+[19.459227] (grpc_bridge_gui) CommandEnded: {'returncode': 0}
+[19.476942] (grpc_bridge_gui) JobProgress: {'identifier': 'grpc_bridge_gui', 'progress': 'install'}
+[19.485726] (grpc_bridge_gui) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui'], 'cwd': '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui', 'env': OrderedDict([('USER_ID', '1000'), ('HOSTNAME', 'pm'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/local/cuda/lib64:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('OLDPWD', '/home/erlang/shared_dir/grpc'), ('ROS_PYTHON_VERSION', '3'), ('LC_CTYPE', 'C.UTF-8'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/usr/local/cuda/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/root/.local/bin'), ('DISPLAY', ':0'), ('ROS_DOMAIN', '55'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('XAUTHORITY', '/home/erlang/.Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('PWD', '/home/erlang/shared_dir/grpc/grpc_bridge_gui/build/grpc_bridge_gui'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[19.495106] (grpc_bridge_gui) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[19.495426] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/lib/grpc_bridge_gui/grpc_bridge_gui\n'}
+[19.528043] (grpc_bridge_gui) StdoutLine: {'line': b'-- Set runtime path of "/home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/lib/grpc_bridge_gui/grpc_bridge_gui" to ""\n'}
+[19.528145] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/package_run_dependencies/grpc_bridge_gui\n'}
+[19.528227] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/parent_prefix_path/grpc_bridge_gui\n'}
+[19.528259] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/ament_prefix_path.sh\n'}
+[19.528294] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/ament_prefix_path.dsv\n'}
+[19.528324] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/path.sh\n'}
+[19.528359] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/environment/path.dsv\n'}
+[19.528421] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.bash\n'}
+[19.528486] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.sh\n'}
+[19.528519] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.zsh\n'}
+[19.528560] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/local_setup.dsv\n'}
+[19.528591] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/package.dsv\n'}
+[19.528623] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/ament_index/resource_index/packages/grpc_bridge_gui\n'}
+[19.528654] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/cmake/grpc_bridge_guiConfig.cmake\n'}
+[19.528695] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/cmake/grpc_bridge_guiConfig-version.cmake\n'}
+[19.528739] (grpc_bridge_gui) StdoutLine: {'line': b'-- Installing: /home/erlang/shared_dir/grpc/grpc_bridge_gui/install/grpc_bridge_gui/share/grpc_bridge_gui/package.xml\n'}
+[19.529991] (grpc_bridge_gui) CommandEnded: {'returncode': 0}
+[19.556633] (-) TimerEvent: {}
+[19.611873] (grpc_bridge_gui) JobEnded: {'identifier': 'grpc_bridge_gui', 'rc': 0}
+[19.612530] (-) EventReactorShutdown: {}
